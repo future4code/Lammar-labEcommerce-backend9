@@ -1,0 +1,24 @@
+{
+  "name": "lammar-labecommerce-backend9",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node ./build/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/future4code/Lammar-labEcommerce-backend9.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/future4code/Lammar-labEcommerce-backend9/issues"
+  },
+  "homepage": "https://github.com/future4code/Lammar-labEcommerce-backend9#readme",
+  "devDependencies": {
+    "@types/node": "^18.11.9",
+    "typescript": "^4.9.3"
+  }
+}
