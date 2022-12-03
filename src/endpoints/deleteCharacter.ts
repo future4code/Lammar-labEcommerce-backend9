@@ -6,12 +6,8 @@ export default async function  deleteCharacter(
    res: Response
 ):Promise<void >{
    try {
+      
       const {id} = req.params
-
-   // const index:number=characters.findIndex(
-   // character => character.id ===Number(id)
-   // )
-   // characters.splice(index, 1)
 
    await connection("character")
       .delete()
