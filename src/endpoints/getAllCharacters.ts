@@ -7,9 +7,8 @@ export default async function getAllCharacters(
    res:Response
 ): Promise<void> {
    
-   
 try {
-   const name = req.query
+   // const name = req.query
 
    const characters: character[]= await connection("character")
    
