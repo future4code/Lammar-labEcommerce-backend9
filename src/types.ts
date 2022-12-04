@@ -3,6 +3,7 @@ export type movie = {
    title: string,
    year: number
 }
+
 export enum GENDER {
    MALE = "MALE",
    FEMALE = "FEMALE",
