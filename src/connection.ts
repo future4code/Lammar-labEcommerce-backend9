@@ -11,7 +11,7 @@ const connection = knex({
       password: process.env.DB_PASS,
       database: process.env.DB_SCHEMA,
       port: 3306,
-      multipleStatements: true //qnd precisar fazer + de uma query na mesma cxção com o banco
+      multipleStatements: true
    }
 })
 
