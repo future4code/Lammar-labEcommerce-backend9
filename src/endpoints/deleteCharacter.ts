@@ -15,7 +15,7 @@ export default async function  deleteCharacter(
    res.status(200).end("Personagem excluido!")
       
    } catch (error) {
-      res.status(500).end()
+      res.status(500).end("Unexpected server error")
 
    }
 }
