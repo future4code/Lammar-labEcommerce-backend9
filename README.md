@@ -1,8 +1,8 @@
-# labEcommerce-backend/Revisão - Módulo 5 - JBL
+# LabEcommerce-backend/Revisão - Módulo 5 - JBL
 
 # Sobre o projeto
 
-É uma API foi desenvolvida com uma lista  de personagens dos filmes X-men, possibilitando pegar seu dados.
+É uma API desenvolvida com uma lista  de personagens dos filmes X-men, possibilitando pegar seu dados.
 
 
 ### Tecnologias utilizadas
