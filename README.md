@@ -8,7 +8,8 @@
 ### Tecnologias utilizadas
 
 
-```Typescript;
+```
+   - Typescript;
    - Node;
    - Express;
    - MySql;
