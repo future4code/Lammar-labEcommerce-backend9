@@ -1,4 +1,4 @@
-# labEcommerce-backend/Revisão - Módulo 5 - JBL
+# Backend/Revisão - Módulo 5 - JBL
 
 # Sobre o projeto
 
@@ -8,12 +8,13 @@
 ### Tecnologias utilizadas
 
 
-```Typescript;
-   - Node;
-   - Express;
-   - MySql;
-   - Knex;
-   - Ferramentas de backend.
+```
+   * Typescript
+   * Node
+   * Express
+   * MySql;
+   * Knex;
+   * Ferramentas de backend.
 ```
 
 # Links:
@@ -22,14 +23,14 @@
 https://labecommerce-backend-qsof.onrender.com
 
 
-### link da documentação!
+### documentação do Postman!
 https://documenter.getpostman.com/view/22366024/2s8YzMWjMR
 
 
 ### Como executar o projeto!
 
 ```
-   -git clone
-   -npm install
+   * git clone
+   * npm install
 ```
 
