@@ -1,4 +1,4 @@
-# LabEcommerce-backend/Revisão - Módulo 5 - JBL
+# Backend/Revisão - Módulo 5 - JBL
 
 # Sobre o projeto
 
